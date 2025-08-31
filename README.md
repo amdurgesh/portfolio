@@ -22,6 +22,6 @@ It showcases skills, projects, and contact information in a clean and minimal de
 
 ## 📬 Contact
 If you’d like to get in touch:  
-- Email: your-email@example.com  
+- Email: [Email](email@example.com)  
 - LinkedIn: [Profile](https://linkedin.com/in/your-username)  
 - GitHub: [username](https://github.com/your-username)
